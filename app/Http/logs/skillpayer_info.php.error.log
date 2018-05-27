@@ -1,0 +1,6 @@
+[11-Mar-2018 01:11:14 UTC] PHP Fatal error:  Cannot use Helpers as Helpers because the name is already in use in /home/skillp10/public_html/app/Http/Controllers/Products/DataController.php on line 16
+[11-Mar-2018 01:12:35 UTC] PHP Fatal error:  Cannot use Helpers as Helpers because the name is already in use in /home/skillp10/public_html/app/Http/Controllers/Products/DataController.php on line 16
+[13-Mar-2018 22:36:28 UTC] PHP Warning:  require(/home/skillp10/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/skillp10/public_html/index.php on line 24
+[13-Mar-2018 22:36:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/skillp10/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/skillp10/public_html/index.php on line 24
+[13-Mar-2018 22:36:32 UTC] PHP Warning:  require(/home/skillp10/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/skillp10/public_html/index.php on line 24
+[13-Mar-2018 22:36:32 UTC] PHP Fatal error:  require(): Failed opening required '/home/skillp10/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/skillp10/public_html/index.php on line 24
